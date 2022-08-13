@@ -1,4 +1,4 @@
-Screechr
+Screechr (golang version 1.17)
 
 Step 1:
 Create a local directory and enter into it using "cd xx" command
